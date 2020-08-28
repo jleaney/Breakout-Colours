@@ -104,7 +104,7 @@ void Playing::handleInput()
 void Playing::handleCollisions()
 {
 	// Buffer so multiple collisions can't happen within a few frames
-	if (collisionsBuffer != 0) return;
+	//if (collisionsBuffer != 0) return;
 
 	// Handles ball hitting bottom
 	if (ball->getPosition().top > gameManager->windowSize.y)
