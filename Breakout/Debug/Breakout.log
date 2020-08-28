@@ -1,0 +1,100 @@
+﻿  AudioManager.cpp
+  Ball.cpp
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Ball.h(13,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Bat.cpp
+  Block.cpp
+  Console.cpp
+  GameManager.cpp
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Ball.h(13,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\GameManager.cpp(14,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\GameManager.cpp(14,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\GameManager.cpp(17,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\GameManager.cpp(17,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\GameManager.cpp(32,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\GameManager.cpp(34,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\GameManager.cpp(63,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GameState.cpp
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Ball.h(13,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Main.cpp
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Ball.h(13,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Main.cpp(37,109): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Main.cpp(37,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  MovingObject.cpp
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Ball.h(13,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Paused.cpp
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Ball.h(13,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Paused.cpp(20,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Paused.cpp(20,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Playing.cpp
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Ball.h(13,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Playing.cpp(27,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Playing.cpp(27,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Playing.cpp(217,25): warning C4018: '>=': signed/unsigned mismatch
+  Menu.cpp
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Ball.h(13,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Menu.cpp(16,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Menu.cpp(16,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Menu.cpp(28,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Breakout\Menu.cpp(28,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Breakout.vcxproj -> C:\Users\jakaz\OneDrive\Documents\C++ Apps\Breakout\Breakout-Colours\Debug\Breakout.exe
